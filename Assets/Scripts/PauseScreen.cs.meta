@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 801ae688fd24c7c48a900d0992ffefc6
+timeCreated: 1517097892
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sVR: {fileID: 21300000, guid: 5dedba30133cbf343859721ecbaf75bb, type: 3}
+  - sKeyboard: {fileID: 21300000, guid: b2948db2d1d1b2b4a86b57dc4409d974, type: 3}
+  - Pause: {fileID: 8300000, guid: e9add38a76bf547e5adef35f8dbc052e, type: 3}
+  - Unpause: {fileID: 8300000, guid: e73935c6a45b44ec194601f593d4a64b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
